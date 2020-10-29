@@ -11,6 +11,7 @@ namespace CourseApp.Controllers
         public IActionResult Index()
         {
             return View();
+            //asdasd
         }
     }
 }
